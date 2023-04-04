@@ -24,5 +24,4 @@
   ![Snake animation](https://github.com/M4RC023/M4RC023/blob/output/github-contribution-grid-snake.svg)
 </div><br/> 
 
-Atualmente estou trabalhando com automações. 
-Estudando Python separado ao trabalho.
+
