@@ -2,10 +2,9 @@
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-anthonio-d-p-machado-003770190/)
 
-![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=M4RC023&show_icons=true&theme=tokyonight)
-![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=M4RC023&show_icons=true&theme=tokyonight)
+![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=M4RC023&show_icons=true&theme=ocean_dark)
 
-![Marco GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC023&theme=tokyonight)
+![Marco GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC023&theme=ocean_dark)
 
 ##Tecnologias que tenho conhecimento: 
 
